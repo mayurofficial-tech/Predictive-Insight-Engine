@@ -4,7 +4,7 @@
 
 A end-to-end regression project built as a Junior Data Scientist working for a real estate analytics firm: predict house prices from property features, compare model families, and explain *why* one model outperforms another.
 
-📹 **[Watch the video walkthrough](https://drive.google.com/file/d/1g7JMIvaslyv5zHR1pPWz3B6KY2qL4Px7/view?usp=drive_link)**
+📹 **[Watch the video walkthrough]([https://drive.google.com/file/d/1g7JMIvaslyv5zHR1pPWz3B6KY2qL4Px7/view?usp=drive_link](https://drive.google.com/file/d/1wzgtsfJmIXUYnozKF8r3-KmhgCbaYJAe/view?usp=drive_link))**
 
 ---
 
